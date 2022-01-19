@@ -3,6 +3,7 @@
 - [手写JSON.stringfy](./js基础/JSONstringfy实现.md)
 
 ### ====== js进阶篇 ====== 
+- [函数式编程初识](./js进阶/函数式编程初识.md)
 - [代码code_review](./js进阶/代码code_review.md)
 - [require_context的使用](./js进阶/require_context的合理使用.md)
 ### ====== 设计模式 ====== 
