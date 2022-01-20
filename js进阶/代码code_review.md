@@ -48,3 +48,21 @@ function curSwitch(i){
     return mapArr.get(i) || '默认值'
   } 
 ```
+#### 2.多个||条件的情况
+
+```js
+function judge(fruit) {
+  if (fruit === 'apple' || fruit === 'strawberry' || fruit === 'cherry' || fruit === 'cranberries' ) {
+    console.log('red')
+  }
+}
+```
+将其进行优化
+```js
+function judge(fruit){
+  const fruit = ['apple','strawberry','cherry','cranberries']
+  if(fruit.includes(fruit)){
+    console.log('red')
+  }
+}
+```
