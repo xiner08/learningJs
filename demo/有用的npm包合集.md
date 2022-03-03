@@ -1,6 +1,6 @@
 ## 记录有用的npm包
 ### 1. nrm 可以修改npm包下载的形式 
--下载 npm i -g nrm 
+- 下载 npm i -g nrm 
 - 使用 nrm use npm/yarn/taobao/tencent 进行修改
 ```JS
   npm ---------- https://registry.npmjs.org/
