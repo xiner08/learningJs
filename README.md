@@ -1,5 +1,6 @@
 ### ====== js基础篇 ====== 
 - [数组遍历](./js基础/数组遍历.md)
+- [数据类型判断](./js基础/数据类型判断.md)
 - [手写JSON.stringfy](./js基础/JSONstringfy实现.md)
 - [手写JSON.stringfy](./js基础/字符串对象转化为对象.md)
 
